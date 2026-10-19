@@ -6,5 +6,9 @@
   "exports": "./src/run-outcome.mjs",
   "scripts": {
     "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/software-execution-adjudication-service.git"
   }
 }
