@@ -1,1 +1,1 @@
-{"keys":[{"crv":"Ed25519","x":"OI-vCRXt6E9xaM8PAsIU3MSxQDvg6cvYu4vBMKvzueg","kty":"OKP","kid":"software-execution-adjudication-service-2026-07-21","alg":"EdDSA","use":"sig"}]}
+{"keys":[{"crv":"Ed25519","x":"P-i7pQ7R9ZBh9HQMBDFxm931Xq6SA3MhG9kULA2dZ18","kty":"OKP","kid":"software-execution-adjudication-service-2026-10-21","alg":"EdDSA","use":"sig"}]}
